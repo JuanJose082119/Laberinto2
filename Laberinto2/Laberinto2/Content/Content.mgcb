@@ -241,3 +241,10 @@
 /processorParam:TextureFormat=Color
 /build:Pared_12.png
 
+#begin tiempo.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:tiempo.spritefont
+
